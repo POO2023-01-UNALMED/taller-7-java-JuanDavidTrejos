@@ -35,7 +35,7 @@ public class Libro extends Escrito {
 	        return edicion;
 	    }
 
-	    public void setEdición(String edicion) {
+	    public void setEdicion(String edicion) {
 	        this.edicion = edicion;
 	    }
 
